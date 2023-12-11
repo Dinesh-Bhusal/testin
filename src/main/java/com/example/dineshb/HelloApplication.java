@@ -9,7 +9,7 @@ import java.io.IOException;
 
 public class HelloApplication extends Application {
     String full;
-    //hi
+    //hii
     Double calcu;
     Double total;
     Double percentage;
